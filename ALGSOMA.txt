@@ -13,5 +13,6 @@ INICIO
 	resultado<- n1+n2
 	escreva("o valor da soma dos nois numeros é:");
 	escreva (resultado)
+	escreva("fim do calculo")
 
 FIM
