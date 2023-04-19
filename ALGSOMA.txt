@@ -1,0 +1,17 @@
+algoritmo soma
+
+declaração
+	n1=decimal;
+	n2=inteiro;
+	resultado=decimal;
+	
+INICIO
+	escreva("digite um numero");
+	leia(n1)
+	escreva("digite outro numero");
+	leia(n2)
+	resultado<- n1+n2
+	escreva("o valor da soma dos nois numeros é:");
+	escreva (resultado)
+
+FIM
