@@ -1,0 +1,7 @@
+algoritmos aleatorio vei
+
+declaração 
+
+inicio 
+escreva("nada nn")
+fim
